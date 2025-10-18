@@ -12,4 +12,4 @@ The actual projects I care about live in their own organisations:
 - **T-1F9C0** – Dead. None of the useful code ever made it to GitHub.
 - **MTPinder** – Alive. Currently in development. Mostly made for personal use, but it could be cool for other macOS+Android users.
 
-As for my older personal projects (from previous GitHub accounts), I highly doubt I'll archive them here. If you remember me (and I trust you), you can contact me on Discord (`@mallardluna`) asking for something in specific, and I might be able to send it to you. There are just way too many, and I don't have the time to sort through them all.
+As for my older personal projects (from previous GitHub accounts), I highly doubt I'll archive them here. If you remember me (and I trust you), you can contact me at mallardluna[at]outlook.com, and I might be able to send it to you. There are just way too many, and I don't have the time to sort through them all.
